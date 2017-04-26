@@ -1,0 +1,500 @@
+   33  cd 
+   34  ls 
+   35  sfdat28
+   36  cd sfdat28
+   37  jupyter notebook
+   38  cd sfdat28
+   39  jupyter notebook
+   40  ls 
+   41  git pull 
+   42  rm -r notebooks/.ipynb_checkpoints/03_regex_example-checkpoint.ipynb
+   43  git pull 
+   44  git pull 
+   45  jupyter notebook
+   46  git pull 
+   47  jupyter notebook
+   48  git status 
+   49  git checkout
+   50  jupyter notebook 
+   51  cd 
+   52  ls 
+   53  cd datasci28_Aquilino
+   54  jupyter notebook
+   55  cd
+   56  cd datasci28_Aquilino
+   57  jupyter notebook
+   58  cd
+   59  sfdat28
+   60  cd sfdat28
+   61  git pull 
+   62  ls 
+   63  pwd 
+   64  cd
+   65  git pull 
+   66  cd sfdat28
+   67  git pull 
+   68  jupyter notebook
+   69  jupyter notebook
+   70  cd 
+   71  ls 
+   72  datasci28_Aquilino
+   73  cd datasci28_Aquilino
+   74  jupyter notebook 
+   75  jupyter notebook
+   76  cd 
+   77  cd sfdat28
+   78  ls 
+   79  jupyter notebook
+   80  cd 
+   81  ls
+   82  cd datasci28_Aquilino
+   83  jupyter notebook
+   84  cd
+   85  cd sfdat28
+   86  jupyter noteboo
+   87  jupyter notebook
+   88  cd
+   89  cd sfdat28 
+   90  git pull 
+   91  cd
+   92  pip keras
+   93  pip Keras
+   94  cd
+   95  ls 
+   96  -r sfdat28
+   97  rm sfdat28
+   98  cd sfdat28
+   99  ls 
+  100  jupyter notebook 
+  101  cd
+  102  git 
+  103  ls 
+  104  -r datasci28
+  105  rm -r datasci28
+  106  cd datasci28_Aquilino
+  107  ls 
+  108  -rm 
+  109  rm -r 
+  110  cd 
+  111  ls
+  112  git 
+  113  git 
+  114  git pull 
+  115  git 
+  116  git help 
+  117  cd SF-DAT-34
+  118  ls 
+  119  cd GitHub 
+  120  ls 
+  121  cd DS-SF-34
+  122  jupyter noteboo 
+  123  jupyter notebook 
+  124  git fetch upstream 
+  125  ls 
+  126  cd 
+  127  ls 
+  128  cd GitHub
+  129  sl 
+  130  ls 
+  131  cd DS-SF-34
+  132  git merge --no-commit upstream/master
+  133  ls 
+  134  git add unit-project/1/notebooks/unit-project-1-alana.ipynb
+  135  ls 
+  136  cd unit-project 
+  137  ls 
+  138  1 
+  139  cd 1 
+  140  ls 
+  141  jupyter notebook 
+  142  ls 
+  143  cd 
+  144  cd GitHub
+  145  ls 
+  146  git clone https://Alannna/DS-SF-34
+  147  ls 
+  148  cd DS-SF-34
+  149  git remote add upstream https://github.com/DS-SF-34
+  150  git fetch upstream
+  151  ls
+  152  final-project 
+  153  cd final-project
+  154  ls 
+  155  cd 
+  156  ls 
+  157  cd GitHub 
+  158  ls 
+  159  cd classes/01
+  160  cd DS-SF-24
+  161  cd DS-SF-34
+  162  ls 
+  163  cd classes
+  164  ls 
+  165  cd 01 
+  166  ls 
+  167  jupyter notebook 
+  168  ls
+  169  CD GitHub 
+  170  cd 
+  171  ls 
+  172  cd GitHub 
+  173  ls 
+  174  cd Alannna_DS-SF-34
+  175  ls 
+  176  classes 
+  177  cd classes
+  178  git diff
+  179  cd classes 
+  180  cd GitHub 
+  181  ls 
+  182  jupyter 01 
+  183  jupyter notebook 
+  184  ls 
+  185  cd GitHub 
+  186  ls
+  187  cd Alannna_DS-SF-34
+  188  ls 
+  189  cd classes 
+  190  ls 
+  191  cd 01 
+  192  git diff
+  193  git fetch
+  194  git add 
+  195  git add . 
+  196  git push 
+  197  ls 
+  198  cd GitHub
+  199  ls 
+  200  cd Alannna_DS-SF-34
+  201  git add
+  202  ls 
+  203  git remote add upstream https://github.com/ga-students/DS-34
+  204  git fetch upstream 
+  205  git fetch upstream 
+  206  ls
+  207  git help 
+  208  jupyter notebook 
+  209  cd
+  210  cd
+  211  cd
+  212  cd
+  213  git diff
+  214  cd GitHub 
+  215  ls 
+  216  Alannna_DS-SF-34
+  217  cd Alannna_DS-SF-34
+  218  ls 
+  219  cd classes 
+  220  cd 01 
+  221  git diff
+  222  git add 
+  223  git add -m "Completed first two problems"
+  224  git commit
+  225  git push 
+  226  git diff 
+  227  ls 
+  228  ls 
+  229  q
+  230  quit 
+  231  root 
+  232  cd 
+  233  bash 
+  234  root 
+  235  bash 
+  236  ls 
+  237  cd 
+  238  GitHub 
+  239  ls 
+  240  cd GitHub 
+  241  ls 
+  242  cd Alannna_DS-SF-34
+  243  ls 
+  244  rm -r Alannna_DS-SF-24
+  245  rm -r 
+  246  -f 
+  247  rm -f 
+  248  rm 
+  249  rm -r 
+  250  cd 
+  251  cd GitHub 
+  252  ls 
+  253  cd Alannna_DS-SF-34
+  254  git add 
+  255  cd 
+  256  cd GitHub/Alannna_DS-SF-34
+  257  cd classes
+  258  ls 
+  259  cd 01 
+  260  git diff 
+  261  git add classes/01/notebooks/assignment-01-what-is-data-science-starter-code.ipynb
+  262  ls 
+  263  cd notebooks 
+  264  ls 
+  265  git add assignment-01-what-is-data-science-starter-code.ipynb
+  266  git commit
+  267  cd GitHUb 
+  268  cd GitHub 
+  269  ls 
+  270  cd Alannna_DS-SF-34
+  271  cd classes/01/notebooks
+  272  ls 
+  273  git add assignment-01-what-is-data-science-starter-code.ipynb
+  274  git commit -m "Changed Question 1/2" 
+  275  git push 
+  276  cd 
+  277  cd GitHub 
+  278  ls 
+  279  cd Alannna_DS-SF-34
+  280  ls 
+  281  cd classes 
+  282  ls 
+  283  jupyter notebook 
+  284  undo -env
+  285  we -all 
+  286  ls 
+  287  GitHub 
+  288  cd GitHub 
+  289  git pull 
+  290  cd GitHub 
+  291  ls 
+  292  cd DS-SF-34
+  293  git pull 
+  294  cd GitHUb
+  295  ls 
+  296  git pull 
+  297  DS-SF-34
+  298  cd DS-SF-34
+  299  git pull 
+  300  cd GitHub
+  301  ls 
+  302  cd Alannna_DS-SF-34
+  303  git log 
+  304  git add -m "Completed Assignment 1"
+  305  git add
+  306  cd Alannna_DS-SF-34
+  307  ls 
+  308  cd classes
+  309  cd notebooks
+  310  ls 
+  311  cd 02
+  312  git add 
+  313  git log 
+  314  git pull 
+  315  git commit 
+  316  git add notebooks/assignment-02-the-pandas-library-starter-code.ipynb
+  317  git commit -m 'Changes to starter code'
+  318  git push 
+  319  git add notebooks/codealong-02-the-pandas-library-starter-code.ipynb
+  320  git commit -m "changes to codealong from weds 4/19 class"
+  321  git push 
+  322  cd GitHub
+  323  ls 
+  324  cd DS_SF-34
+  325  cd DS-SF-34
+  326  ls 
+  327  cd classes
+  328  ls 
+  329  cd 02
+  330  ls
+  331  cd notebooks
+  332  ls 
+  333  jupyter notebook
+  334  cd GitHub 
+  335  ls 
+  336  cd DS-SF-34
+  337  ls 
+  338  cd classes
+  339  ls 
+  340  cd 02 
+  341  jupyter notebook 
+  342  cd GitHub
+  343  cd Alannna_DS-SF-34
+  344  ls 
+  345  cd classes
+  346  ls 
+  347  ..
+  348  cd . 
+  349  cd..
+  350  cd .
+  351  cd
+  352  git remote -v 
+  353  cd GitHub
+  354  git remote -v 
+  355  git remote add upstream https://github.com/ga-students/ga-students/DS-SF-34
+  356  git remote -v 
+  357  git fetch upstream
+  358  git fetch upstream 
+  359  git remote -v
+  360  git remote add DS-34 https://github.com/ga-students/DS-SF-34
+  361  git fetch DS-34
+  362  git merge --no-commit/DS-34
+  363  git merge 
+  364  cd DS-SF-34
+  365  pwd
+  366  ls 
+  367  cd classes
+  368  jupyter notebook 
+  369  cd GitHub
+  370  ls 
+  371  cd Alannna_DS-SF-34
+  372  ls 
+  373  cd classes
+  374  ls 
+  375  git remote -v
+  376  cd
+  377  git remote 
+  378  git fetch DS-34
+  379  git merge 
+  380  pwd
+  381  ls
+  382  cd GitHub/
+  383  ls
+  384  cd Alannna_DS-SF-34/
+  385  git remote -v
+  386  git log
+  387  git fetch ga-students
+  388  git merge  ga-students/master
+  389  git push
+  390  pwd
+  391  cd classes/
+  392  jupyter notebook
+  393  cd GitHub
+  394  ls 
+  395  cd Alannna_DS-SF-34
+  396  ls
+  397  git add 
+  398  git add .
+  399  cd GitHub/DS-SF-34
+  400  git reset HEAD
+  401  git pull 
+  402  git stash
+  403  git head
+  404  git lgo 
+  405  git log 
+  406  git reset HEAD
+  407  ls 
+  408  git status 
+  409  git pull 
+  410  git rm classes/01/notebooks/assignment-01-what-is-data-science-answer-key.ipynb 
+  411  git clean -fd
+  412  ls 
+  413  git log 
+  414  git pull
+  415  cd 
+  416  cd GitHub/Alannna_DS-SF-34
+  417  ls 
+  418  cd classes
+  419  ls 
+  420  git pull 
+  421  cd c
+  422  cd 
+  423  ls 
+  424  cd GitHub
+  425  git pull 
+  426  cd GitHub/classes
+  427  cd GitHub 
+  428  ls 
+  429  DS-SF-34
+  430  cd DS-SF-34
+  431  cd GitHub/Alannna_DS-SF-34
+  432  cd classes
+  433  cd 03
+  434  git status 
+  435  git add 03/notebooks/.ipynb_checkpoints/
+  436  ls 
+  437  cd GitHub
+  438  ls 
+  439  cd Alannna_DS-SF-34
+  440  git add assignment-03-databases-scrapping-and-apis-starter-code
+  441  git add 
+  442  git add .
+  443  git commit .
+  444  git commit .  -m "update post class"
+  445  git push 
+  446  cd GitHub
+  447  Alannna_DS-SF-34
+  448  cd Alannna_DS-SF-34/
+  449  git status 
+  450  git reset HEAD
+  451  git fetch 
+  452  git merge
+  453  git fetch remote 
+  454  git fetch remote -v 
+  455  remote -v 
+  456  git remote -v 
+  457  git fetch ga-students
+  458  git merge
+  459  git pull 
+  460  ls 
+  461  git pull ga-students master
+  462  git pull ga-students master
+  463  git merge
+  464  git reset head
+  465  pwd
+  466  git remote -v
+  467  git status
+  468  git diff README.md 
+  469  git add README.md 
+  470  git commit -m "Updated README"
+  471  git fetch ga-students
+  472  git merge ga-students/master
+  473  git status
+  474  ls classes/
+  475  jupyter notebook 
+  476  GitHub/classes
+  477  cd GitHub/Alannna-SF-34
+  478  cd GitHub
+  479  cd Alannna_DS-SF-34
+  480  ls 
+  481  git status 
+  482  git commit classes/02/notebooks/.ipynb_checkpoints/assignment-02-the-pandas-library-starter-code-checkpoint.ipynb
+  483  git fetch 
+  484  git merge 
+  485  git remote -v
+  486  git fetch ga-students
+  487  git push 
+  488  ls 
+  489  cd classes
+  490  ls 
+  491  ls 
+  492  git merge
+  493  git fetch ga-students
+  494  git merge
+  495  ls 
+  496  git pull remote ga-students 
+  497  cd
+  498  cd GitHub
+  499  cd DS-SF-34
+  500  jupyter notebook
+  501  cd GitHub/Alannna_DS-SF
+  502  cd/GitHub/Alannna_DS-SF-34
+  503  cd GitHub
+  504  ls 
+  505  cd Alannna_DS-SF-34/
+  506  git fetch ga-students
+  507  git merge
+  508  ls 
+  509  cd classes
+  510  ls 
+  511  cd 03
+  512  ls 
+  513  cd notebooks 
+  514  ls 
+  515  git status 
+  516  git fetch ga-students
+  517  git status 
+  518  git fetch ga-students
+  519  ls 
+  520  git merge
+  521  git merge ga-students/master
+  522  git status 
+  523  git push 
+  524  git add ../datasets/dataset-03-reviews.csv
+  525  git commit -m "dataset reviews"
+  526  git status
+  527  history
+  528  git remote -v
+  529  git status
+  530  git commit -m "updates from class 4/23"
+  531  vi assignment-03-databases-scrapping-and-apis-starter-code.ipynb
+  532  history > ivan
