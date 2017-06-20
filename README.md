@@ -23,7 +23,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 15 | 6/7 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
 | [16](./classes/16) | 6/12 | [Trees](./classes/16) | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 6/14 | Applied Machine Learning Modeling, Part 2 | | |
-| 18 | 6/19 | Natural Language Processing | | |
+| [18](./classes/18) | 6/19 | [Natural Language Processing](./classes/18) | | |
 | 19 | 6/21 | Time Series | | |
 | 20 | 6/26 | Final Project Presentations and Wrap-Up | **[Final Project 3](./final-project/3)** | **[Final Project 3](./final-project/3)** |
 
